@@ -224,14 +224,6 @@
     <Resource Include="images\iphone.png" />
     <Resource Include="Assets\GoliyMac.jpg" />
     <Content Include="query1.sql" />
-    <Resource Include="icons\account.png" />
-    <Resource Include="icons\basket.png" />
-    <Resource Include="icons\info.png" />
-    <Resource Include="icons\notification.png" />
-    <Resource Include="icons\off.png" />
-    <Resource Include="icons\sale.png" />
-    <Resource Include="icons\settings.png" />
-    <Resource Include="icons\supermarket.png" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
